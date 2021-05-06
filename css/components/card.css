@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  border: 2px solid #E7E7E7;
+  box-shadow: 2px 2px 15px rgba(0,0,0,0.1);
+  padding: 10px;
+}
+
+
+.card img{
+  height: 100px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+

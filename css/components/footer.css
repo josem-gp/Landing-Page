@@ -1,0 +1,21 @@
+.footer {
+  height: 200px;
+  background-color: #2d2b2b;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.footer-icon-inline{
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  color: #676868;
+}
+
+.footer-icon-inline a{
+  color: #66de89;
+  font-size: 32px;
+  margin: 5px;
+}
+

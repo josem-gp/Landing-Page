@@ -1,0 +1,25 @@
+.banner {
+  height: 600px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-position: 55% 50%;
+}
+
+.banner .container h1, a{
+  color: white;
+}
+
+.banner .container p {
+  color: #B2B3B4;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.banner .container a{
+  text-decoration: none;
+  background-color: #66DE89;
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+
